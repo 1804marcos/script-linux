@@ -1,5 +1,5 @@
 # script-linux
-#MI GIT HUB PERSONAL
+MI GIT HUB PERSONAL
 Este es mi github personal donde subire una serie de scripts muy sencillos 
 acompañados sus explicaciones .
 ## Esta descripcion ha sido realizada con el editor de texto markdown
